@@ -1,4 +1,4 @@
-# Learn Swift 😎
+# Learn SwiftUI 😎
 ### Stanford CS193p (Swift) 
 
 |Lecture|Title|Date|Note|
@@ -8,3 +8,4 @@
 |3-1|[Reactive UI + Protocols + Layout : Reactive UI](https://www.youtube.com/watch?v=SIYdYpPXil4&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG&index=13)|2021-03-24|[Link](https://velog.io/@hogumachu/Learn-Swift-3-1-Stanford-CS139p)|
 |3-2|[Reactive UI + Protocols + Layout : Protocols](https://www.youtube.com/watch?v=SIYdYpPXil4&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG&index=13)|2021-03-25|[Link](https://velog.io/@hogumachu/Learn-Swift-3-2-Stanford-CS139p)|
 |3-3|[Reactive UI + Protocols + Layout : Layout](https://www.youtube.com/watch?v=SIYdYpPXil4&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG&index=13)|2021-03-27|[Link](https://velog.io/@hogumachu/Learn-Swift-3-3-Stanford-CS139p)|
+|4|[Lecture 4: Grid + enum + Optionals](https://www.youtube.com/watch?v=eHEeWzFP6O4&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG&index=12&t=890s)|2021-03-28|[Link]()|
