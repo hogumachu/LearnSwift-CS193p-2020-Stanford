@@ -1,4 +1,4 @@
-# Learn Swift 😎
+# Learn SwiftUI 😎
 ### Stanford CS193p (Swift) 
 
 |Lecture|Title|Date|Note|
