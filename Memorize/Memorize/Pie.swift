@@ -32,6 +32,5 @@ struct Pie: Shape {
         p.addLine(to: center)
         return p
     }
-    
 }
 

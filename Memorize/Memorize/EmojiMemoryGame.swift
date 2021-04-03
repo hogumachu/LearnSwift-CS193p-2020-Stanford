@@ -19,7 +19,6 @@ class EmojiMemoryGame: ObservableObject {
             return emojis[pairIndex]
         }
     }
-        
     
     // MARK:- Access to the Model
     
