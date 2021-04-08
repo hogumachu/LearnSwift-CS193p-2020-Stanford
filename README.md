@@ -11,4 +11,4 @@
 |4|[Lecture 4: Grid + enum + Optionals](https://www.youtube.com/watch?v=eHEeWzFP6O4&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG&index=12&t=890s)|2021-03-28|[Link](https://velog.io/@hogumachu/Learn-Swift-4-Stanford-CS139p)|
 |5|[Lecture 5: ViewBuilder + Shape + ViewModifier](https://www.youtube.com/watch?v=oDKDGCRdSHc)|2021-03-30|[Link]()|
 |6|[Lecture 6: Animation](https://www.youtube.com/watch?v=3krC2c56ceQ)|2021-04-04|[Link]()|
-
+|7|[Lecture 7: Multithreading EmojiArt](https://www.youtube.com/watch?v=tmx-OwkBWxA&list=PL8SnFaXWA_oMBKMOaI8K03CFLjFWD8Zn1&index=7)|2021-04-08|[Link]()|
